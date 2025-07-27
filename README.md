@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Nilansh Kumar - Developer Portfolio</h1>
+<h1 align="center">🌐 Portfolio</h1>
 
 <p align="center">
   <img src="./assets/banner.png" alt="Portfolio Banner" width="100%" />
