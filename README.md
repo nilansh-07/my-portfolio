@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <a href="https://nilansh-07.github.io/my-portfolio" target="_blank">
+  <a href="https://nilansh-07.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/nilansh-07" target="_blank">
