@@ -10,7 +10,7 @@ export const Bio = {
     "As a driven and adaptable professional, I constantly seek growth opportunities and strive for excellence. With a proactive mindset and optimistic attitude, I approach tasks with enthusiasm, fostering a culture of growth and success. I am ready to make a significant impact and excel in every endeavor.",
   github: "https://github.com/nilansh-07",
   resume:
-    "https://drive.google.com/file/d/1JH0-zejzG_0jo5pfyKzzZWIFnFV01dLI/view?usp=drive_link",
+    "https://drive.google.com/file/d/1N8sJ87zqWWd-LHgy0lANOnVWTiVZKS9Q/view?usp=sharing",
   facebook: "https://www.facebook.com/",
   linkedin: "https://www.linkedin.com/in/nilansh07/",
   twitter: "https://twitter.com/nilansh_07",
