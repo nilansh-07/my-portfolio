@@ -16,7 +16,7 @@
   <a href="https://github.com/nilansh-07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-nilansh--07-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:nilansh07@gmail.com">
+  <a href="mailto:nilanshkumar7500@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
@@ -56,9 +56,9 @@
 my-portfolio/
 ├── public/
 ├── src/
-│   ├── components/         # 
-│   ├── data/     # UI components
-│   ├── images/           # Modular content (skills, experience, bio)
+│   ├── components/     
+│   ├── data/     
+│   ├── images/           
 │   ├── utils
 │   └── index.js
 ├── README.md
